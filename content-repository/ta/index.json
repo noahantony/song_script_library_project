@@ -14,6 +14,17 @@
       ],
       "updatedAt": "2026-10-20"
     },
+	{
+      "id": "ta-song-002",
+      "title": "உம் கிருபை போதுமே",
+      "type": "song",
+      "category": "Worship",
+      "path": "ta/songs/song-002.md",
+      "tags": [
+        "ஆராதனை"
+      ],
+      "updatedAt": "2026-10-21"
+    },
     {
       "id": "ta-script-001",
       "title": "ஊக்கமளிக்கும் சிறுகதை",
