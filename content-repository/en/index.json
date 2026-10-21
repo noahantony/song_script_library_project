@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "language": "en",
+  "items": [
+    {
+      "id": "en-song-001",
+      "title": "Amazing Grace (Sample)",
+      "type": "song",
+      "category": "Worship",
+      "path": "en/songs/song-001.md",
+      "tags": [
+        "worship",
+        "grace"
+      ],
+      "updatedAt": "2026-10-20"
+    }
+  ]
+}

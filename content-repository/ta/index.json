@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "language": "ta",
+  "items": [
+    {
+      "id": "ta-song-001",
+      "title": "ஆராதனை பாடல்",
+      "type": "song",
+      "category": "Worship",
+      "path": "ta/songs/song-001.md",
+      "tags": [
+        "ஆராதனை",
+        "துதி"
+      ],
+      "updatedAt": "2026-10-20"
+    },
+    {
+      "id": "ta-script-001",
+      "title": "ஊக்கமளிக்கும் சிறுகதை",
+      "type": "script",
+      "category": "Motivation",
+      "path": "ta/scripts/script-001.md",
+      "tags": [
+        "ஊக்கம்",
+        "சிறுகதை"
+      ],
+      "updatedAt": "2026-10-20"
+    }
+  ]
+}

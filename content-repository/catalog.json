@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "nativeName": "தமிழ்",
+      "index": "ta/index.json"
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "index": "en/index.json"
+    }
+  ]
+}
