@@ -13,6 +13,19 @@
         "grace"
       ],
       "updatedAt": "2026-10-20"
+    },
+    {
+      "id": "en-song-i-will-walk-in-your-light",
+      "title": "I Will Walk in Your Light",
+      "type": "song",
+      "path": "en/songs/i-will-walk-in-your-light.md",
+      "updatedAt": "2026-10-23",
+      "category": "Worship",
+      "tags": [
+        "hope"
+      ],
+      "author": "LyricsNest",
+      "composer": "LyricsNest"
     }
   ]
 }
