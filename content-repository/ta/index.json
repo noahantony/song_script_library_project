@@ -14,7 +14,20 @@
       ],
       "updatedAt": "2026-10-20"
     },
-	{
+    {
+      "id": "ta-song-003",
+      "title": "உம் ஒளியில் நடப்பேன்",
+      "type": "song",
+      "path": "ta/songs/song-003.md",
+      "updatedAt": "2026-10-23",
+      "category": "Worship",
+      "tags": [
+        "hope"
+      ],
+      "author": "Noah",
+      "composer": "Noah"
+    },
+    {
       "id": "ta-song-002",
       "title": "உம் கிருபை போதுமே",
       "type": "song",
