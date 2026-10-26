@@ -3,6 +3,14 @@
   "language": "ta",
   "items": [
     {
+      "id": "ta-song-anjaadhae-iyesa",
+      "title": "anjaadhae iyesa",
+      "type": "song",
+      "path": "ta/songs/anjaadhae-iyesa.md",
+      "updatedAt": "2026-10-26",
+      "category": "Keerthanaigal"
+    },
+    {
       "id": "ta-song-001",
       "title": "ஆராதனை பாடல்",
       "type": "song",
